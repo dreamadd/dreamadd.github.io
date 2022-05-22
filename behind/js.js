@@ -18,6 +18,6 @@ if(name === "云南白曜") {
     } else {
       getname();
       }
-
+}
 
 getname();
