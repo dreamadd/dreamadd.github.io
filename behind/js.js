@@ -1,4 +1,4 @@
-﻿function getname() {
+function getname() {
 let name = prompt('请输入用户名。');
 if(name === "云南白曜") {
   let mima = prompt('请输入密码。');
